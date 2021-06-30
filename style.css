@@ -1,0 +1,49 @@
+body{
+    margin: auto;
+    padding-right: 30px;
+    width: 700px;
+}
+
+    
+
+.images {
+    width: 200px;
+    height: 200px;
+}
+.d-flex{
+    display: flex;
+}
+.error_msg {
+    color: red;
+    opacity: 0.5;
+}
+#header{
+    height: 100px;
+    
+    
+}
+#txt_header{
+    padding-top: 20px;
+    color: rgb(26, 43, 16);
+    size: 200px;
+}
+.container{
+    width: 700px;
+  
+    
+}
+#img_number{
+    width: 100px;
+    
+}
+#searchText{
+    
+}
+#btn{
+    width: 100px !important;
+    height: 30px !important;
+    
+}
+
+
+
